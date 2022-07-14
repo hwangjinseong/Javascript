@@ -5,6 +5,12 @@ for(let i = 0; i <= 10; i++) {
     console.log(i);
 }
 
+// for ... in 반복문
+for(let key in superman) {
+    console.log(key);
+    console.log(superman[key]);
+}
+
 // while문 
 let i = 0;
 while(i < 10) {
