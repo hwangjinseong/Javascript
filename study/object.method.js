@@ -22,7 +22,6 @@
   user.sayHi = function() {
     alert("안녕하세요!");
   };
-  
   user.sayHi(); // 안녕하세요!
 
 // this
