@@ -15,4 +15,4 @@ function solution(n) {
       primeNum = true;
     }
     return(count);
-    }
+}
